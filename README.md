@@ -1,6 +1,6 @@
 - Hi, I am Layten LeJeune!
 - Currently interested in finishing school projects and doing personal projects.
-- Im in the process of learning Java and C#
+- Im in the process of learning C++ and C#.
 - 📫 You can reach me at laytenlejeune42@gmail.com!
 
 <!---
