@@ -1,6 +1,6 @@
 - Hi, I'm Layten LeJeune!
-- Currently interested in finishing school projects and doing personal projects.
-- I'm in the process of learning C#.
+- Currently interested in finishing school and working on some personal coding projects.
+- Currently interning as an AI Data Analyst at Acadian Ambulance
 - 📫 You can reach me at laytenlejeune42@gmail.com!
 
 <!---
