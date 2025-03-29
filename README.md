@@ -1,6 +1,6 @@
 - Hi, I'm Layten LeJeune!
 - Currently interested in finishing school and working on some personal coding projects.
-- Currently interning as a Data Analyst at Acadian Companies.
+- Currently working as an IT Support Specialist at Pearl Insurance.
 - 📫 You can reach me at laytenlejeune42@gmail.com!
 
 <!---
